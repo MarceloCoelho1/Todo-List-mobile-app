@@ -20,4 +20,4 @@ O aplicativo consiste em uma única tela que exibe a lista de tarefas do usuári
 Cada item da lista de tarefas pode ser marcado como concluído pelo usuário, clicando na caixa de seleção à esquerda do texto da tarefa.
 
 
-![Preview do projeto](https://github.com/MarceloCoelho1/Todo-List-mobile-app/blob/main/assets/preview.jpeg){width=300px}
+![Preview do projeto](https://github.com/MarceloCoelho1/Todo-List-mobile-app/blob/main/assets/preview.jpeg){width=100px}
